@@ -52,3 +52,14 @@ section {
 .center span {
     color: orangered;
 }
+
+footer {
+    padding: 0.4rem 2rem;
+    background-color: #000;
+    position: fixed;
+    inset: auto 0 0 0;
+}
+
+footer a {
+    color: #fff;
+}
